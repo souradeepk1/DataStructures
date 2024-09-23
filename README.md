@@ -30,3 +30,4 @@ pull changes made by others
 git pull origin main
 ```
 Learn More about Stage, Commoit, Push Pull, https://www.nobledesktop.com/learn/git/stage-commit-files
+Licance 
