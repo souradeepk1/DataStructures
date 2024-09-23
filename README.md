@@ -7,6 +7,10 @@ clone Repository from internet
 ```
 git clone [HTTPS URL]
 ```
+```
+cd DataStructres
+```
+
 verify remote repository  
 ```
 git remote -v
